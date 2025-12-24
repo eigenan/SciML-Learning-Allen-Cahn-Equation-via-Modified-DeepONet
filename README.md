@@ -14,7 +14,7 @@ DeepONet learns a mapping from input functions to output functions via two subne
 2.  **Trunk Network**: Encodes the query locations $(x, y, t)$.
 
 ### Modified DeepONet Architecture
-Here we implement a variation called **Modified DeepONet**:
+We implement a variation called **Modified DeepONet**:
 *   Instead of a simple dot product, the outputs of Branch and Trunk are combined via **element-wise multiplication**.
 *   The result is processed by a final linear layer (`self.fc`) to produce the scalar output.
 *   This architecture often shows improved convergence and accuracy over the vanilla dot-product DeepONet.
