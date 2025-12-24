@@ -23,4 +23,5 @@ $$
 G(u)(y) \approx \text{Linear}(\text{Branch}(u) \odot \text{Trunk}(y))
 $$
 
-<img width="1822" height="1417" alt="ac_output" src="https://github.com/user-attachments/assets/3917e5e1-6d78-47b1-87f0-99e0e3ea2b72" />
+
+<img width="2287" height="1415" alt="ac_output" src="https://github.com/user-attachments/assets/b291ba86-50d2-45d2-b786-a8afc93179e7" />
