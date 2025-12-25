@@ -23,5 +23,7 @@ $$
 G(u)(y) \approx \text{Linear}(\text{Branch}(u) \odot \text{Trunk}(y))
 $$
 
+Inspired by the paper: [Learning the solution operator of parametric partial differential equations with physics-informed DeepOnets](https://doi.org/10.48550/arXiv.2103.10974)
+
 
 <img width="2287" height="1415" alt="ac_output" src="https://github.com/user-attachments/assets/b291ba86-50d2-45d2-b786-a8afc93179e7" />
